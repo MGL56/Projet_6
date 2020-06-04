@@ -7,7 +7,7 @@ L'objectif est de développer un modèle de scoring de la probabilité de défau
 
 Les données sont plusieurs fichiers '.csv' qui renseignent des informations concernant les clients d'une banque. 
 
-Tous les fichiers .csv sont téléchargeable à l'adresse suivante : https://www.kaggle.com/c/home-credit-default-risk/data
+Tous les fichiers .csv sont téléchargeables à l'adresse suivante : https://www.kaggle.com/c/home-credit-default-risk/data
 
 Le dossier ne contient pas les fichiers compte tenu du volume de ceux-ci. Mais elles ressemblent à ceci :
 
