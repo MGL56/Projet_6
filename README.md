@@ -7,7 +7,9 @@ Les données sont plusieurs fichiers '.csv' qui renseignent des informations con
 
 Tous les fichiers .csv sont téléchargeable à l'adresse suivante : https://www.kaggle.com/c/home-credit-default-risk/data
 
-Le dossier ne contient pas les fichiers compte tenu du volume de ceux-ci.
+Le dossier ne contient pas les fichiers compte tenu du volume de ceux-ci. Mais elles ressemblent à ceci :
+
+<img src="home_credit.png">
 
 Le dossier contient 3 fichiers .ipynb correspondant à la partie pré-traitement des données, nommé Projet_7_preprocessing.ipynb;
 Dans cette partie, nous avons traité les valeurs abérrantes, manquantes, fait du feature engineering et encodés les variables catégorielles et cycliques.
