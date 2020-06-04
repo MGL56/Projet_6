@@ -1,0 +1,23 @@
+# Projet_7
+Implémentez un modèle de scoring
+
+L'objectif est de développer un modèle de scoring de la probabilité de défaut de paiement d'un client pour étayer la décision d'accorder ou non un prêt à un client potentiel
+
+Les données sont plusieurs fichiers '.csv' qui renseignent des informations concernant les clients d'une banque. 
+
+Tous les fichiers .csv sont téléchargeable à l'adresse suivante : https://www.kaggle.com/c/home-credit-default-risk/data
+
+Le dossier ne contient pas les fichiers compte tenu du volume de ceux-ci.
+
+Le dossier contient 3 fichiers .ipynb correspondant à la partie pré-traitement des données, nommé Projet_7_preprocessing.ipynb;
+Dans cette partie, nous avons traité les valeurs abérrantes, manquantes, fait du feature engineering et encodés les variables catégorielles et cycliques.
+
+Le deuxième fichier concerne la partie modélisation, nommé Projet_7_modelling.ipynb. Il s'agit de la séléction du modèle,
+de l'optimisation des hyper-paramètres ainsi que de l'analyse des résultats.
+
+Le troisième fichier, quant à lui, concerne le déploiement du dashboard avec dash, une sur-couche de flask.
+
+Il y a également le fichier correspondant au modèle qui est facilement importable depuis n'importe où.
+
+Pour finir, il a une note méthodologique concernant la partie modélisation pour aider les chargés de client à comprendre le travail effectué.
+
