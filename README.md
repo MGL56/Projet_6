@@ -13,10 +13,10 @@ Le dossier ne contient pas les fichiers compte tenu du volume de ceux-ci. Mais e
 
 <img src="home_credit.png">
 
-Le dossier contient 3 fichiers .ipynb. Le premier correspond à la partie pré-traitement des données et est nommé Projet_7_preprocessing.ipynb.
+Le dossier contient 3 fichiers .ipynb. Le premier correspond à la partie pré-traitement des données et est nommé Projet_6_preprocessing.ipynb.
 Dans cette partie, nous avons traité les valeurs abérrantes, manquantes, fait du feature engineering et encodés les variables catégorielles et cycliques.
 
-Le deuxième fichier concerne la partie modélisation, nommé Projet_7_modelling.ipynb. Il s'agit de la séléction du modèle,
+Le deuxième fichier concerne la partie modélisation, nommé Projet_6_modelling.ipynb. Il s'agit de la séléction du modèle,
 de l'optimisation des hyper-paramètres ainsi que de l'analyse des résultats.
 
 Le troisième fichier, quant à lui, concerne le déploiement du dashboard avec dash, une sur-couche de flask.
