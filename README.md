@@ -1,4 +1,4 @@
-# Projet_7
+# Projet_6
 Implémentez un modèle de scoring
 
 <img src="logo_entreprise.png">
